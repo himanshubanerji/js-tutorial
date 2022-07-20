@@ -1,5 +1,9 @@
+"use strict";
+
 // the first javascript program
-console.log("Hello, World!");
+// console.log("Hello, World!");
+
+
 
 // variables can store information
 // we can use or modify that information later
