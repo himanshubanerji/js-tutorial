@@ -1,4 +1,4 @@
-entrypoint = "variables.js"
+entrypoint = "data_type.js"
 
 hidden = [".config"]
 
